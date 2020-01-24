@@ -1,0 +1,2 @@
+include ':app', ':kotlinexersise'
+rootProject.name='HelloWorld'
